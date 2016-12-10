@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader Only Framework.CSharp", "Shader Only Framework.CSharp.csproj", "{0D45AD23-2772-F049-8C07-7D9097FA45AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D45AD23-2772-F049-8C07-7D9097FA45AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D45AD23-2772-F049-8C07-7D9097FA45AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D45AD23-2772-F049-8C07-7D9097FA45AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D45AD23-2772-F049-8C07-7D9097FA45AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
